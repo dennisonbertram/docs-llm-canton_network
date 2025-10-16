@@ -1,0 +1,2 @@
+2025-10-16 15:07:51,958 [main] INFO  c.d.c.e.CommunityEnvironment tid:4213bc111fce7432f972d625b414c3ac - Automatically starting all instances
+2025-10-16 15:07:52,217 [main] ERROR c.d.c.e.CommunityEnvironment tid:4213bc111fce7432f972d625b414c3ac - Failed to start domain1: Failed to bind to address /127.0.0.1:5019
